@@ -1,5 +1,6 @@
-### Hi there 👋
-
+都给👴狠狠地follow，阿里嘎多🥺  
+💬 持续更新中~  
+😄 有什么建议欢迎issue哦~  
 <!--
 **MrDou9902/MrDou9902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrDou9902&repo=FullStackDemo_FrontEnd_1.0)](https://github.com/MrDou9902/FullStackDemo_FrontEnd_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrDou9902&repo=FullStackDemo_BackEnd_1.0)](https://github.com/MrDou9902/FullStackDemo_BackEnd_1.0)
