@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrDou9902&repo=FullStackDemo_FrontEnd_1.0)](https://github.com/MrDou9902/FullStackDemo_FrontEnd_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrDou9902&repo=FullStackDemo_BackEnd_1.0)](https://github.com/MrDou9902/FullStackDemo_BackEnd_1.0)
